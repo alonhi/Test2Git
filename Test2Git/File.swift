@@ -15,5 +15,7 @@ struct Test {
         print"test2")
         Text("test5")
         Text("test5")
+        Text("test5")
+        
     }
 }
