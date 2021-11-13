@@ -10,5 +10,6 @@ import Foundation
 struct Test {
     func testCool() {
         print("test")
+        print"test")
     }
 }
