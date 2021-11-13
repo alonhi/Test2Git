@@ -22,6 +22,11 @@ struct ContentView: View {
         Text("test6")
         
         
+        
+        
+        Text("dflkjldjkflkjaslfjlasjkd")
+        
+        
     }
 }
 
