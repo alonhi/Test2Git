@@ -13,6 +13,6 @@ struct Test {
         print"test")
         print"test2")
         print"test2")
-        print"test2")
+        Text("test5")
     }
 }
