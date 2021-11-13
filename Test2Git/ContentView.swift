@@ -14,6 +14,7 @@ struct ContentView: View {
         Text("test")
         Text("test2")
         Text("test3")
+        Text("test4")
         
     }
 }
