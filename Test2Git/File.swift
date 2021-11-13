@@ -11,5 +11,6 @@ struct Test {
     func testCool() {
         print("test")
         print"test")
+        print"test2")
     }
 }
