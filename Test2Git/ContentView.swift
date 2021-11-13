@@ -20,6 +20,7 @@ struct ContentView: View {
         Text("test6")
         Text("test6")
         Text("test6")
+        elakjsdflkj
         
         
         
