@@ -18,6 +18,8 @@ struct ContentView: View {
         Text("test5")
         Text("test6")
         Text("test6")
+        Text("test6")
+        Text("test6")
         
         
     }
